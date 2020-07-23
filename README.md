@@ -8,7 +8,7 @@ This implementation is used to explore the effect of dynamic routing in the orig
 3. Does training a network with equal routing weights (no routing) result in object capsules that agree with the predictions made by part capsules?
 
 # Results
-Our results have shown that if we assign equal routes
+Our results have shown that if we assign equal routes, improved performance in both classification as well as generalization to affine transformed inputs can be achieved.
 
 # References
 [1] Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. "Dynamic routing between capsules." Advances in neural information processing systems. 2017.
